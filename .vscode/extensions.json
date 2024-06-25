@@ -9,7 +9,6 @@
     "ms-vscode-remote.remote-ssh",
     "ms-vscode-remote.remote-containers",
     "ms-vscode-remote.remote-wsl",
-    "ms-vscode.gitlens",
     "eamodio.gitlens",
     "formulahendry.auto-rename-tag",
     "kamikillerto.vscode-colorize",

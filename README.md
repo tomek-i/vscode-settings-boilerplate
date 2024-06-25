@@ -92,7 +92,6 @@ Here are the extensions recommended in this project:
 
 - `ms-vscode-remote.remote-wsl`: Use the Windows Subsystem for Linux as your full-time development environment.
 
-- `ms-vscode.gitlens`: Supercharge the Git capabilities built into Visual Studio Code.
 
 - `eamodio.gitlens`: Supercharge the Git capabilities built into Visual Studio Code.
 
