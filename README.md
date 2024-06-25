@@ -74,8 +74,6 @@ The `extensions.json` file in the `.vscode` directory recommends extensions to t
 
 Here are the extensions recommended in this project:
 
-- `ms-vscode.vscode-typescript-tslint-plugin`: Integrates the TypeScript TSLint language service into VS Code.
-
 - `esbenp.prettier-vscode`: Integrates Prettier, a code formatter, into VS Code.
 
 - `msjsdiag.debugger-for-chrome`: Adds support for debugging JavaScript in Google Chrome to VS Code.
