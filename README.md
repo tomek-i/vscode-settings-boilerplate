@@ -35,6 +35,7 @@ The `settings.json` file in the `.vscode` directory configures the behavior of V
 - `"editor.cursorStyle": "line"`: This setting controls the cursor style. When set to "line", the cursor will be a vertical line.
 
 - `"editor.fontFamily": "Fira Code"`: This setting controls the font family of the editor. In this case, it's set to "Fira Code".
+  [Get FiraCode](<[a](https://github.com/tonsky/FiraCode)>)
 
 - `"editor.fontLigatures": true`: This setting enables font ligatures, which combine multiple characters into a single typographic unit.
 
@@ -76,8 +77,6 @@ Here are the extensions recommended in this project:
 
 - `esbenp.prettier-vscode`: Integrates Prettier, a code formatter, into VS Code.
 
-- `msjsdiag.debugger-for-chrome`: Adds support for debugging JavaScript in Google Chrome to VS Code.
-
 - `editorconfig.editorconfig`: Integrates EditorConfig, a tool for maintaining consistent coding styles, into VS Code.
 
 - `ms-azuretools.vscode-docker`: Adds Docker integration to VS Code.
@@ -91,7 +90,6 @@ Here are the extensions recommended in this project:
 - `ms-vscode-remote.remote-containers`: Develop inside a Docker container.
 
 - `ms-vscode-remote.remote-wsl`: Use the Windows Subsystem for Linux as your full-time development environment.
-
 
 - `eamodio.gitlens`: Supercharge the Git capabilities built into Visual Studio Code.
 
