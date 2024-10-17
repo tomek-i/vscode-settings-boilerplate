@@ -53,13 +53,9 @@
     "**/node_modules": true
   },
 
-  // Enable experimental class regex for Tailwind CSS
+  // Enable experimental class regex for Tailwind CSS with Class Variants Autocompletion
   "tailwindCSS.experimental.classRegex": [
-    [
-      "cva(?:<[^>]*>)?(([^)]*))",
-      "[\"'`]([^\"'`]*).*?[\"'`]",
-      "(?:twMerge|twJoin)\\(([^\\);]*)[\\);]"
-    ]
+    ["cva(?:<[^>]*>)?(([^)]*))", "[\"'`]([^\"'`]*).*?[\"'`]", "(?:twMerge|twJoin)\\(([^\\);]*)[\\);]"]
   ],
 
   // highlight modified tabs
